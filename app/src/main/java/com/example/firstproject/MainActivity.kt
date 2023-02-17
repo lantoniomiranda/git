@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         //change something
         
-        //O Chico alterou isto
+        //Another Person changed this
+
+        //Another branch created
+        //Some changes to the new branch
     }
 }
