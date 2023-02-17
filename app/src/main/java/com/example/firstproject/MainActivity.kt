@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         //Another branch created
         //Some changes to the new branch
+        //Another commit to new branch
     }
 }
